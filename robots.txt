@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://torasayu.github.io/sitemap/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/FtK/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/BMA/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/UKH/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/cpu/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/hfn/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/AKU/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/cro/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/FMb/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/twp/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/CSr/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/SlQ/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/nuN/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/vjl/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/uRx/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/pQT/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/kBe/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/HMZ/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/pcD/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/Csy/sitemap_index.torasayu
+Sitemap: https://torasayu.github.io/jDR/sitemap_index.torasayu
